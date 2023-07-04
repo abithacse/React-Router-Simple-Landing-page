@@ -1,0 +1,40 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black
+    
+ 
+  
+
+}
+.logo{
+    color: white;
+    margin-left: 1rem;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.item{
+    display: flex;
+}
+
+.ul{
+    display: flex;
+    margin: 25px;
+}
+
+li{margin: 0 1rem;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+
+}
+
+
+
+
